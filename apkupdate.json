@@ -1,9 +1,9 @@
 {
-    "updateTime": "2016-9-20",
-    "UpdateUrl": "",
-    "VersionCode": "16",
+	"Forced": "false",
+    "Ignore": "false",
+    "UpdateUrl": "https://github.com/ximencx/xmvideoupdate/blob/master/update.apk",
+	"updateTime": "2016-9-20",
+    "VersionCode": "20",
     "VersionName": "2.5.1beta",
-    "UpdateContent": "更新内容你猜哈哈哈哈",
-    "Forced": "false",
-    "Ignore": "false"
+    "UpdateContent": "更新内容你猜哈哈哈哈更新内容你猜哈哈哈哈更新内容你猜哈哈哈哈"
 }
