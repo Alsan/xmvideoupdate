@@ -1,7 +1,7 @@
 {
 	"Forced": "false",
     "Ignore": "false",
-    "UpdateUrl": "https://github.com/ximencx/xmvideoupdate/blob/master/update.apk",
+    "UpdateUrl": "https://raw.githubusercontent.com/ximencx/xmvideoupdate/master/update.apk",
 	"updateTime": "2016-9-20",
     "VersionCode": "20",
     "VersionName": "2.5.1beta",
