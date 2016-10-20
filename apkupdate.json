@@ -2,8 +2,8 @@
 	"Forced": "false",
     "Ignore": "false",
     "UpdateUrl": "https://raw.githubusercontent.com/ximencx/xmvideoupdate/master/update.apk",
-	"updateTime": "2016-10-07",
-    "VersionCode": "19",
-    "VersionName": "2.7.0beta",
-    "UpdateContent": "1,软件升级移到设置中,提升启动速度。2,增加社区和影评推送,欢迎小伙伴投稿(有署名的)。3,增加播放记录清空。4,修复图片加载问题(设置-清除缓存)"
+	"updateTime": "2016-10-20",
+    "VersionCode": "20",
+    "VersionName": "2.7.1beta",
+    "UpdateContent": "1,优化播放器2,社区改发现3,优化dytt连接显示"
 }
