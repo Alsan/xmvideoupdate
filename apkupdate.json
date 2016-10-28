@@ -2,8 +2,8 @@
 	"Forced": "false",
     "Ignore": "false",
     "UpdateUrl": "https://raw.githubusercontent.com/ximencx/xmvideoupdate/master/update.apk",
-	"updateTime": "2016-10-20",
-    "VersionCode": "20",
-    "VersionName": "2.7.1beta",
-    "UpdateContent": "1,优化播放器2,社区改发现3,优化dytt连接显示"
+	"updateTime": "2016-10-28",
+    "VersionCode": "21",
+    "VersionName": "2.7.2beta",
+    "UpdateContent": "1,优化性能2,优化ui显示3,增加去广告功能，精简权限"
 }
