@@ -2,8 +2,8 @@
 	"Forced": "false",
     "Ignore": "false",
     "UpdateUrl": "https://raw.githubusercontent.com/ximencx/xmvideoupdate/master/update.apk",
-	"updateTime": "2016-11-05",
-    "VersionCode": "22",
-    "VersionName": "2.7.3beta",
-    "UpdateContent": "1,添加新站点2,修复已知bug"
+	"updateTime": "2016-11-12",
+    "VersionCode": "23",
+    "VersionName": "2.7.4beta",
+    "UpdateContent": "1,添加80s影院,修复已知bug 2,更新失败请到酷安搜索‘影视大全’"
 }
